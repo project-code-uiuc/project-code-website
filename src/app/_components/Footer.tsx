@@ -52,7 +52,7 @@ export default function Footer() {
             </Grid>
 
             <Grid xs={12}>
-              <Typography>&copy; 2024 Project: Code UIUC</Typography>
+              <Typography>&copy; 2025 Project: Code UIUC</Typography>
             </Grid>
           </Grid>
         </Container>
