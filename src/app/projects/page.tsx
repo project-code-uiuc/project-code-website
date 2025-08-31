@@ -5,10 +5,10 @@ import NextLink from "next/link";
 import ProjectsGrid from "./_components/ProjectsGrid";
 import { getProjectsFromSemester, prettyPrintSemester } from "./projects";
 
-const CURRENT_SEMESTER = "fall-2024";
+const CURRENT_SEMESTER = "fall-2025";
 
 // Suggestion: put more recent semesters at beginning (e.g., [spring-2024, fall-2023, spring-2023, ...])
-const PREVIOUS_SEMESTERS = ["spring-2024", "fall-2023"];
+const PREVIOUS_SEMESTERS = ["fall-2024", "spring-2024", "fall-2023"];
 
 export default function Page() {
   return (
