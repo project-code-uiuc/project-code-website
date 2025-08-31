@@ -2,6 +2,13 @@ import { Person } from "./Person";
 
 export const PROJECT_MANAGERS: Person[] = [
   {
+    name: "Coming Soon!",
+    initials: "TDB",
+    linkedInURL: "",
+    photoURL: "",
+  },
+  /*
+  {
     name: "Aakash Kothari",
     initials: "AK",
     linkedInURL: "",
@@ -109,5 +116,6 @@ export const PROJECT_MANAGERS: Person[] = [
     linkedInURL: "",
     photoURL: "",
   },
+  */
   // TODO: Add PMs from Fall 2023
 ];

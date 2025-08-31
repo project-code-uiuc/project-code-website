@@ -16,7 +16,7 @@ export default function PMApplicationCard() {
           size="md"
           endDecorator={<LaunchIcon />}
           component="a"
-          href="https://forms.gle/mTK3YuLhqfrGGsad6"
+          href="https://forms.gle/RstRNE7VNRuXqutg9"
           target="_blank"
           // disabled
         >

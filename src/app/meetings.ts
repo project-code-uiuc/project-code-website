@@ -8,34 +8,33 @@ export interface Meeting {
 
 export const MEETINGS: Meeting[] = [
   {
-    title: "Spring General Meeting #1 - Info Session",
-    date: "Thu, Jan 23, 2025, 6-7 PM",
+    title: "Fall General Meeting #1 - Info Session",
+    date: "Wed, Sep 3, 2025, 6-7 PM",
     location: "Siebel 1404",
     locationLink: "https://maps.app.goo.gl/yCpsPaRFWMEaEnWt6",
     description:
       "Learn more about Project: Code and how to get started on a project this semester!",
   },
   {
-    title: "Spring General Meeting #2 - Projects Intro",
-    date: "Thu, Jan 30, 2025, 6-7 PM",
-    location: "Siebel 1404",
-    locationLink: "https://maps.app.goo.gl/yCpsPaRFWMEaEnWt6",
+    title: "Fall General Meeting #2 - Projects Intro",
+    date: "Wed, Sep 17, 6-7 PM",
+    location: "Loomis 151",
+    locationLink: "https://maps.app.goo.gl/ezuk4uzRfioekwAA8",
     description:
       "Learn about the projects being held this semester and select the project you are most interested in working on!",
   },
-
   {
-    title: "Spring General Meeting #3 - Midpoint Presentations",
-    date: "Mar TBA, 2025",
-    location: "Location TBA",
-    locationLink: "",
+    title: "Fall General Meeting #3 - Midpoint Presentations",
+    date: "Wed, Oct 29, 2025, 6-7 PM",
+    location: "Siebel 1404",
+    locationLink: "https://maps.app.goo.gl/yCpsPaRFWMEaEnWt6",
     description:
       "Hear from project groups about the progress they've made so far this semester!",
   },
 
   {
-    title: "General Meeting #4 - Final Presentations",
-    date: "Apr TBA, 2025",
+    title: "Fall General Meeting #4 - Final Presentations",
+    date: "Dec TBA, 2025",
     location: "Location TBA",
     locationLink: "",
     description:

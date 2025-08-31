@@ -7,6 +7,22 @@
 
 
 const PROJECTS: Project[] = [
+  // fall 2025
+  {
+    id: "coming-soon",
+    title: "Coming Soon!",
+    emoji: "",
+    areas: [],
+    projectManagers: [
+      { name: "you!", email: "" }
+    ],
+    contributors: [],
+    started: "fall-2025",
+    alsoActiveIn: [],
+    viewProjectLink: "",
+    sourceCodeLink: "",
+    description: "Applications are open to apply for Fall 2025!",
+  },
   // fall 2024
   {
     id: "fitness-app",
