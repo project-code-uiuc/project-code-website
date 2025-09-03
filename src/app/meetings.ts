@@ -16,6 +16,14 @@ export const MEETINGS: Meeting[] = [
       "Learn more about Project: Code and how to get started on a project this semester!",
   },
   {
+    title: "Fast Enterprises - Resume Workshop",
+    date: "Wed, Sep 9, 2025, 7:30-8:30 PM",
+    location: "DCL 1310",
+    locationLink: "https://maps.app.goo.gl/iLi2grocoZwMHrKF7",
+    description:
+      "Learn about creating a powerful resume with Fast Enterprises, as well as more about Project Code!",
+  },
+  {
     title: "Fall General Meeting #2 - Projects Intro",
     date: "Wed, Sep 17, 6-7 PM",
     location: "Loomis 151",
