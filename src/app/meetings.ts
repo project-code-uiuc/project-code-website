@@ -17,7 +17,7 @@ export const MEETINGS: Meeting[] = [
   },
   {
     title: "Fast Enterprises - Resume Workshop",
-    date: "Tue, Sep 9, 2025, 7:30-8:30 PM",
+    date: "Tue, Sep 9, 2025, 8-9 PM",
     location: "DCL 1310",
     locationLink: "https://maps.app.goo.gl/iLi2grocoZwMHrKF7",
     description:
