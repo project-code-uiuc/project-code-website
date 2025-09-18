@@ -38,7 +38,7 @@ export default function ProjectsGrid({
             <CardContent>
               <Typography level="h3">Want to join a project?</Typography>
               <Typography level="body-lg">
-                The project matching form for Spring 2024 is now open!
+                The project matching form for Fall 2025 is now open!
               </Typography>
             </CardContent>
 
@@ -47,7 +47,8 @@ export default function ProjectsGrid({
                 size="md"
                 endDecorator={<LaunchIcon />}
                 component="a"
-                href="https://forms.gle/Q5wdFZZwqBENghAJ9"
+                href="https://forms.gle/hJZ5uG7MX4vbSRu3A
+                "
                 target="_blank"
                 // disabled
               >
