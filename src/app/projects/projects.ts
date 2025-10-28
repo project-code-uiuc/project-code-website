@@ -9,19 +9,125 @@
 const PROJECTS: Project[] = [
   // fall 2025
   {
-    id: "coming-soon",
-    title: "Coming Soon!",
-    emoji: "",
-    areas: [],
+    id: "campus-lost-and-found",
+    title: "Campus Lost and Found",
+    emoji: "🧭",
+    areas: ["Mobile App Dev"],
     projectManagers: [
-      { name: "you!", email: "" }
+      { name: "Annika Polavarapu", email: "annikap4@illinois.edu" }
     ],
     contributors: [],
     started: "fall-2025",
     alsoActiveIn: [],
     viewProjectLink: "",
     sourceCodeLink: "",
-    description: "Applications are open to apply for Fall 2025!",
+    description: "An app that allows users to post lost items they find on campus and browse lost item posts. Features include an AI power search which allows user to upload a description or image of their lost item and find possible matches, item claim verification, map view and search filters, and in-app chat to coordinate item pickup. ",
+  },
+  {
+    id: "note-keeper",
+    title: "Note Keeper",
+    emoji: "📒",
+    areas: ["App Dev"],
+    projectManagers: [
+      { name: "Haochen Ding", email: "hd9@illinois.edu" }
+    ],
+    contributors: [],
+    started: "fall-2025",
+    alsoActiveIn: [],
+    viewProjectLink: "",
+    sourceCodeLink: "https://github.com/haochend413/AI-Note-Keeper.git",
+    description: "Terminal based note manager powered by an LLM agent",
+  },
+  {
+    id: "framelight",
+    title: "Framelight",
+    emoji: "📷",
+    areas: ["Computer Vision", "Machine Learning"],
+    projectManagers: [
+      { name: "Yifan Luo", email: "yifan65@illinois.edu" }
+    ],
+    contributors: [],
+    started: "fall-2025",
+    alsoActiveIn: [],
+    viewProjectLink: "",
+    sourceCodeLink: "",
+    description: "Framelight: Guiding composition, before a photo is taken. Today, camera apps have advanced color adjustment features, yet none provide the ability to adjust a photo’s composition. This is because composition is a feature determined when a picture is physically taken. What if there were a way to adjust the composition before a photo is taken? Framelight will analyze a scene and guide the user towards the best composition available in the current scene. This will be done intuitively, with a series of visual instructions such as arrows and lines, and most importantly, on device in real time. Our vision is to give everyone the ability to create, regardless of their photographic ability.",
+  },
+  {
+    id: "eats-uiuc",
+    title: "Eats@UIUC",
+    emoji: "🥘",
+    areas: ["Web Dev", "Data Vizualization", "UI/UX Design"],
+    projectManagers: [
+      { name: "Tanishka Suman", email: "tsuma@illinois.edu" },
+      { name: "Jenica Jeevan", email: "jjeev@illinois.edu" }
+    ],
+    contributors: [],
+    started: "fall-2025",
+    alsoActiveIn: [],
+    viewProjectLink: "",
+    sourceCodeLink: "https://github.com/tanishkasuman/eats-uiuc",
+    description: "An interactive website that showcases restaurant information around UIUC, including ratings, price ranges, cuisines, and locations. Users can search, filter, and explore detailed views of each restaurant while gaining insights into dining trends, popular cuisines, and top-rated spots. This entry-level project offers hands-on experience with full-stack web development, data visualization, and UI/UX design using tools like Python, HTML/CSS, Figma, and GitHub.",
+  },
+  {
+    id: "illini-bites",
+    title: "Illini Bites",
+    emoji: "🍔",
+    areas: ["App Dev"],
+    projectManagers: [
+      { name: "Vedaant Magow", email: "vmagow2@illinois.edu" }
+    ],
+    contributors: [],
+    started: "fall-2025",
+    alsoActiveIn: [],
+    viewProjectLink: "",
+    sourceCodeLink: "",
+    description: "IlliniBites is a campus-focused dining helper built for the UIUC community, visitors, and residents. The website/app acts as a one-stop solution for discovering dining options, with easy access to updated menus, pricing, and hours of operation. To make decisions simpler it will also calculate the walking distances from popular campus landmarks such as the Quad, Union, and Green Street. IlliniBites will encourage the community to discover local favorites, save time and enjoy everything the Champaign-Urbana food scene has to offer.",
+  },
+  {
+    id: "agri-sense",
+    title: "Agri-Sense",
+    emoji: "🌱",
+    areas: ["Web Dev", "Hardware"],
+    projectManagers: [
+      { name: "James Kim", email: "yk41@illinois.edu" }
+    ],
+    contributors: [],
+    started: "fall-2025",
+    alsoActiveIn: [],
+    viewProjectLink: "",
+    sourceCodeLink: "https://github.com/bigbenno1/agri-sense",
+    description: "Data-driven web app for monitoring and optimizing plant health.",
+  },
+  {
+    id: "spot-sync-ai",
+    title: "SpotSync AI",
+    emoji: "🎟️",
+    areas: ["Agentic Dev", "RAG Pipeline"],
+    projectManagers: [
+      { name: "Yash Naroju", email: "yashroju@gmail.com" }
+    ],
+    contributors: [],
+    started: "fall-2025",
+    alsoActiveIn: [],
+    viewProjectLink: "",
+    sourceCodeLink: "",
+    description: "SpotSync AI is the development of a real-time, AI-powered venue based ticketing agent that integrates conversational voice interfaces with transactional databases. The system builds on a Retrieval-Augmented Generation (RAG) pipeline, Twilio voice integration, and Redis caching to deliver natural, low-latency interactions where users can search for seats, check availability, and book tickets by speaking directly to the agent.\n\nUnlike static retrieval agents, the project enables live database updates, allowing the AI to reserve or release seats in real time while ensuring transactional consistency. A dynamic pricing algorithm adjusts ticket costs based on seat quality and proximity to the concert date, drawing inspiration from revenue models used by platforms like SeatGeek.\n\nIn addition our team focused on ensuring concurrency handling and reliable seat reservations even when multiple users attempt to book simultaneously. The agent’s modular architecture supports scalability, with caching layers to accelerate repeated queries and fallback mechanisms for payment integration or human escalation.",
+  },
+  {
+    id: "visual-debugger",
+    title: "Visual Debugger",
+    emoji: "️📈",
+    areas: ["Fullstack Dev", "Visualization"],
+    projectManagers: [
+      { name: "Ronit Rout", email: "ronitr2@illinois.edu" }
+    ],
+    contributors: [],
+    started: "fall-2025",
+    alsoActiveIn: [],
+    viewProjectLink: "",
+    sourceCodeLink: "https://github.com/ronit127/visual-debugger",
+    description: "A web-based Python editor and debugger with real-time data structure visualizations",
   },
   // fall 2024
   {

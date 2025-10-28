@@ -8,7 +8,7 @@ import { getProjectsFromSemester, prettyPrintSemester } from "./projects";
 const CURRENT_SEMESTER = "fall-2025";
 
 // Suggestion: put more recent semesters at beginning (e.g., [spring-2024, fall-2023, spring-2023, ...])
-const PREVIOUS_SEMESTERS = ["fall-2024", "spring-2024", "fall-2023"];
+const PREVIOUS_SEMESTERS = ["fall-2025", "fall-2024", "spring-2024", "fall-2023"];
 
 export default function Page() {
   return (
@@ -26,7 +26,7 @@ export default function Page() {
       <ProjectsGrid
         projects={getProjectsFromSemester(CURRENT_SEMESTER)}
         // showPMApplication
-        showMatchingForm
+        // showMatchingForm
       />
 
       <Typography level="h2" mt={5}>
