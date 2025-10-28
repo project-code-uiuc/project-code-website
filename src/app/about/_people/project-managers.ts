@@ -1,12 +1,62 @@
 import { Person } from "./Person";
 
 export const PROJECT_MANAGERS: Person[] = [
+  // fall 2025
   {
-    name: "Coming Soon!",
-    initials: "TDB",
-    linkedInURL: "",
-    photoURL: "",
+    name: "Haochen Ding",
+    initials: "HD",
+    linkedInURL: "https://www.linkedin.com/in/hcd413",
+    photoURL: "/pm-photos/haochen-ding.jpg",
   },
+  {
+    name: "Annika Polavarapu",
+    initials: "AP",
+    linkedInURL: "https://www.linkedin.com/in/annika-polavarapu",
+    photoURL: "/pm-photos/annika-polavarapu.jpg",
+  },
+  {
+    name: "Yifan Luo",
+    initials: "YL",
+    linkedInURL: "https://www.linkedin.com/in/luo-yifan",
+    photoURL: "/pm-photos/yifan-luo.jpg",
+  },
+  {
+    name: "Jenica Jeevan",
+    initials: "JJ",
+    linkedInURL: "https://www.linkedin.com/in/jenica-jeevan-9322b2346/",
+    photoURL: "/pm-photos/jenica-jeevan.jpg",
+  },
+  {
+    name: "Vedaant Magow",
+    initials: "VM",
+    linkedInURL: "https://www.linkedin.com/in/vmagow",
+    photoURL: "/pm-photos/vedaant-magow.jpg",
+  },
+  {
+    name: "Younghoon (James) Kim",
+    initials: "YHK",
+    linkedInURL: "https://www.linkedin.com/in/jameskimuiuc/",
+    photoURL: "/pm-photos/james-kim.jpg",
+  },
+  {
+    name: "Tanishka Suman",
+    initials: "TS",
+    linkedInURL: "https://www.linkedin.com/in/tanishkasuman",
+    photoURL: "/pm-photos/tanishka-suman.jpg",
+  },
+  {
+    name: "Yash Naroju",
+    initials: "YN",
+    linkedInURL: "https://www.linkedin.com/in/yash-naroju-935244328",
+    photoURL: "/pm-photos/yash-naroju.jpg",
+  },
+  {
+    name: "Ronit Rout",
+    initials: "RR",
+    linkedInURL: "https://www.linkedin.com/in/ronit-rout",
+    photoURL: "/pm-photos/ronit-rout.jpg",
+  },
+  // previous
   /*
   {
     name: "Aakash Kothari",
