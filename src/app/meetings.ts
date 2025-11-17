@@ -9,7 +9,7 @@ export interface Meeting {
 export const MEETINGS: Meeting[] = [
   {
     title: "Fall General Meeting #1 - Info Session",
-    date: "Wed, Sep 3, 2025, 6-7 PM",
+    date: "Wed Sep 3, 2025, 6-7 PM",
     location: "Siebel 1404",
     locationLink: "https://maps.app.goo.gl/yCpsPaRFWMEaEnWt6",
     description:
@@ -17,7 +17,7 @@ export const MEETINGS: Meeting[] = [
   },
   {
     title: "Fast Enterprises - Resume Workshop",
-    date: "Tue, Sep 9, 2025, 8-9 PM",
+    date: "Tue Sep 9, 2025, 8-9 PM",
     location: "DCL 1310",
     locationLink: "https://maps.app.goo.gl/iLi2grocoZwMHrKF7",
     description:
@@ -25,7 +25,7 @@ export const MEETINGS: Meeting[] = [
   },
   {
     title: "Fall General Meeting #2 - Projects Intro",
-    date: "Wed, Sep 17, 6-7 PM",
+    date: "Wed Sep 17, 6-7 PM",
     location: "Loomis 151",
     locationLink: "https://maps.app.goo.gl/ezuk4uzRfioekwAA8",
     description:
@@ -33,7 +33,7 @@ export const MEETINGS: Meeting[] = [
   },
   {
     title: "Fall General Meeting #3 - Midpoint Presentations",
-    date: "Wed, Oct 29, 2025, 6-7 PM",
+    date: "Wed Oct 29, 2025, 6-7 PM",
     location: "Siebel 1404",
     locationLink: "https://maps.app.goo.gl/yCpsPaRFWMEaEnWt6",
     description:
@@ -42,9 +42,9 @@ export const MEETINGS: Meeting[] = [
 
   {
     title: "Fall General Meeting #4 - Final Presentations",
-    date: "Dec TBA, 2025",
-    location: "Location TBA",
-    locationLink: "",
+    date: "Thu Dec 4, 2025, 6-7 PM",
+    location: "Loomis 144",
+    locationLink: "https://maps.app.goo.gl/ezuk4uzRfioekwAA8",
     description:
       "Hear from project groups again and see each team's final product!",
   },
