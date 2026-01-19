@@ -57,7 +57,7 @@ export default function Page() {
 
       <Grid container spacing={3} justifyContent="center">
         {EXEC.map((member) => (
-          <Grid xs={6} sm={4} md={3} lg={2.4}>
+          <Grid key={member.name} xs={6} sm={4} md={3} lg={2.4}>
             <BioCard
               name={member.name}
               initials={member.initials}
@@ -80,7 +80,7 @@ export default function Page() {
 
           // Map each PM to a BioCard
           .map((pm) => (
-            <Grid xs={6} sm={4} md={3} lg={2.4}>
+            <Grid key={pm.name} xs={6} sm={4} md={3} lg={2.4}>
               <BioCard
                 name={pm.name}
                 initials={pm.initials}
