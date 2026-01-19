@@ -7,7 +7,7 @@ export default function PMApplicationCard() {
       <CardContent>
         <Typography level="h3">Want to lead a project?</Typography>
         <Typography level="body-md">
-          Project Manager applications for Spring 2025 are open!
+          Project Manager applications for Spring 2026 are open!
         </Typography>
       </CardContent>
 
@@ -16,7 +16,7 @@ export default function PMApplicationCard() {
           size="md"
           endDecorator={<LaunchIcon />}
           component="a"
-          href="https://forms.gle/RstRNE7VNRuXqutg9"
+          href="https://forms.gle/YLJGTCUUs5kCRouj7"
           target="_blank"
           // disabled
         >
