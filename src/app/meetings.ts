@@ -8,7 +8,7 @@ export interface Meeting {
 
 export const MEETINGS: Meeting[] = [
   {
-    title: "Fall General Meeting #1 - Info Session",
+    title: "Spring General Meeting #1 - Info Session",
     date: "Wed Jan 28, 6-7 PM",
     location: "Everitt Lab 1306",
     locationLink: "https://maps.app.goo.gl/nr9NecfCWTPTd1HK8",
@@ -16,7 +16,7 @@ export const MEETINGS: Meeting[] = [
       "Learn more about Project: Code and how to get started on a project this semester!",
   },
   {
-    title: "Fall General Meeting #2 - Project Presentations",
+    title: "Spring General Meeting #2 - Project Presentations",
     date: "Wed Feb 4, 6-7 PM",
     location: "Siebel 1404",
     locationLink: "https://maps.app.goo.gl/ZbpULkaStfVezV52A",
