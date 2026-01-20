@@ -17,7 +17,7 @@ export const MEETINGS: Meeting[] = [
   },
   {
     title: "Fall General Meeting #2 - Project Presentations",
-    date: "Wed Feb 2, 6-7 PM",
+    date: "Wed Feb 4, 6-7 PM",
     location: "Siebel 1404",
     locationLink: "https://maps.app.goo.gl/ZbpULkaStfVezV52A",
     description:
