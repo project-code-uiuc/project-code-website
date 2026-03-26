@@ -1,10 +1,82 @@
 import { Person } from "./Person";
 
 export const PROJECT_MANAGERS: Person[] = [
+  // {
+  //   name: "Coming Soon...\n(Apply Now!)",
+  //   initials: "CS",
+  // },
   // spring 2026
   {
-    name: "Coming Soon...\n(Apply Now!)",
-    initials: "CS",
+    name: "Yaoning Qu",
+    initials: "YQ",
+    linkedInURL: "https://www.linkedin.com/in/yaoning-qu-935842332",
+    photoURL: "",
+  },
+  {
+    name: "Krrish Granesh",
+    initials: "KG",
+    linkedInURL: "https://www.linkedin.com/in/krrish-g/",
+    photoURL: "",
+  },
+  {
+    name: "Annika Polavarapu",
+    initials: "AP",
+    linkedInURL: "https://www.linkedin.com/in/annika-polavarapu/",
+    photoURL: "/pm-photos/annika-polavarapu.jpg",
+  },
+  {
+    name: "Tanishka Suman",
+    initials: "TS",
+    linkedInURL: "https://www.linkedin.com/in/tanishkasuman/",
+    photoURL: "/pm-photos/tanishka-suman.jpg",
+  },
+  {
+    name: "Jenica Jeevan",
+    initials: "JJ",
+    linkedInURL: "https://www.linkedin.com/in/jenica-jeevan-9322b2346",
+    photoURL: "/pm-photos/jenica-jeevan.jpg",
+  },
+  {
+    name: "Yifan Luo",
+    initials: "YL",
+    linkedInURL: "https://www.linkedin.com/in/luo-yifan/",
+    photoURL: "/pm-photos/yifan-luo.jpg",
+  },
+  {
+    name: "Felix Lee",
+    initials: "FL",
+    linkedInURL: "https://www.linkedin.com/in/felix-lee-0b38491a5/",
+    photoURL: "",
+  },
+  {
+    name: "Aditya Arunachalam",
+    initials: "AA",
+    linkedInURL: "",
+    photoURL: "",
+  },
+  {
+    name: "Esha Himagirish",
+    initials: "EH",
+    linkedInURL: "https://www.linkedin.com/in/esha-himagirish",
+    photoURL: "/pm-photos/esha-himagirish.jpg",
+  },
+  {
+    name: "Tejasvi Prattipati ",
+    initials: "TP",
+    linkedInURL: "https://www.linkedin.com/in/tejasvi-prattipati-5585802a9",
+    photoURL: "/pm-photos/tejasvi-prattipati.jpg",
+  },
+  {
+    name: "Niv Roychowdhury",
+    initials: "NR",
+    linkedInURL: "https://www.linkedin.com/in/niv-roychowdhury-6b98b7279",
+    photoURL: "",
+  },
+  {
+    name: "Ruthwick Pabbu",
+    initials: "RP",
+    linkedInURL: "https://www.linkedin.com/in/ruthwikpabbu/",
+    photoURL: "",
   },
   // fall 2025
   // {
