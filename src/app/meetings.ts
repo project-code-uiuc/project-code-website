@@ -23,23 +23,22 @@ export const MEETINGS: Meeting[] = [
     description:
       "Learn about the projects being held this semester and select the project you are most interested in working on!",
   },
-  // {
-  //   title: "Fall General Meeting #3 - Midpoint Presentations",
-  //   date: "Wed Oct 29, 2025, 6-7 PM",
-  //   location: "Siebel 1404",
-  //   locationLink: "https://maps.app.goo.gl/yCpsPaRFWMEaEnWt6",
-  //   description:
-  //     "Hear from project groups about the progress they've made so far this semester!",
-  // },
-
-  // {
-  //   title: "Fall General Meeting #4 - Final Presentations",
-  //   date: "Thu Dec 4, 2025, 6-7 PM",
-  //   location: "Loomis 144",
-  //   locationLink: "https://maps.app.goo.gl/ezuk4uzRfioekwAA8",
-  //   description:
-  //     "Hear from project groups again and see each team's final product!",
-  // },
+  {
+    title: "Pentair Tech Talk and Midpoint Presentations",
+    date: "Wed April 1, 2026, 5-7 PM",
+    location: "DCL 1310",
+    locationLink: "https://maps.app.goo.gl/XQ32MF2dx77mx1Fe7",
+    description:
+      "Hear from Pentair about tech and project groups about the progress they've made so far this semester!",
+  },
+  {
+    title: "Spring General Meeting #4 - Final Presentations",
+    date: "Wed April 29, 2025, 6-7 PM",
+    location: "DCL 1320",
+    locationLink: "https://maps.app.goo.gl/XQ32MF2dx77mx1Fe7",
+    description:
+      "Hear from project groups again and see each team's final product!",
+  },
   {
     title: "More meetings coming soon!",
     // date: "Wed, Jan 24, 2024, 6–7 PM",
