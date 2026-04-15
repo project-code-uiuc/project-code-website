@@ -25,7 +25,7 @@ export const MEETINGS: Meeting[] = [
   },
   {
     title: "Pentair Tech Talk and Midpoint Presentations",
-    date: "Wed April 1, 2026, 5-7 PM",
+    date: "Wed April 1, 5-7 PM",
     location: "DCL 1310",
     locationLink: "https://maps.app.goo.gl/XQ32MF2dx77mx1Fe7",
     description:
@@ -33,7 +33,7 @@ export const MEETINGS: Meeting[] = [
   },
   {
     title: "Spring General Meeting #4 - Final Presentations",
-    date: "Wed April 29, 2025, 6-7 PM",
+    date: "Wed April 29, 6-7 PM",
     location: "DCL 1320",
     locationLink: "https://maps.app.goo.gl/XQ32MF2dx77mx1Fe7",
     description:
