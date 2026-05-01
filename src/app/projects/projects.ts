@@ -50,7 +50,7 @@ const PROJECTS: Project[] = [
     contributors: [],
     started: "spring-2026",
     alsoActiveIn: [],
-    viewProjectLink: "",
+    viewProjectLink: "https://eats-uiuc.onrender.com/",
     sourceCodeLink: "https://github.com/tanishkasuman/eats-uiuc.git",
     description: "Eats @ UIUC is an interactive web platform that helps students explore the campus dining scene through searchable and filterable restaurant data, including ratings, price ranges, cuisines, and locations. Built as a full-stack application, it combines Python for backend data processing with a dynamic frontend to deliver an intuitive and engaging user experience. The project focuses on improving accessibility, user engagement, and data visualization while providing a real-world application for hands-on development.",
   },
